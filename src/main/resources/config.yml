@@ -1,0 +1,2 @@
+# The time in seconds between tasks to see if a server is online or not.
+server-pinger-interval: 10

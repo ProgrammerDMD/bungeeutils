@@ -1,0 +1,5 @@
+glist-header: "&cAvailable servers at the moment:"
+glist-format-online: "&8&l\u2022 &f%server-name% &8\u00BB &e%connected-players%&8/&6%max-players% &7[%percentage%%]"
+glist-format-offline: "&8&l\u2022 &f%server-name% &8\u00BB &eServer offline"
+glist-footer: "&e\u00BB &e&l%connected-players% &econnected players."
+no-players-connected: "No players connected on this server"

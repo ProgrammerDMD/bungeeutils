@@ -1,0 +1,9 @@
+name: BungeeUtils
+version: ${project.version}
+main: me.programmerd.bungeeutils.BungeeUtils
+description: Improved bungeecord commands to make your server look better.
+
+commands:
+  glist:
+    description: Shows a list with available servers.
+    permission: bungeecord.command.list
